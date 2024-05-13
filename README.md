@@ -5,6 +5,6 @@ In data science, much of the conversation often revolves around the sophisticati
 
 ## Goals and Expectations
 By the end of this workshop, participants will be equipped with the knowledge and skills to conduct thorough data explorations, laying a solid foundation for any subsequent machine learning or data analysis projects. You'll leave with a deeper appreciation for the art of data exploration and a set of practical tools and techniques to apply to real-world datasets.
-* Develop Intuition: Equip participants with the ability to gain deep insights and intuition about their data, transforming raw numbers into narratives that inform critical decision-making processes.
-* Foster Curiosity: Encourage a mindset shift from accepting data at face value to actively questioning and probing data to uncover underlying patterns, anomalies, and trends.
-* Practical Skillset: Beyond theoretical knowledge, attendees will leave with a toolbox filled with practical techniques and strategies for data exploration. These tools will be immediately applicable to a variety of real-world datasets, ensuring a tangible improvement in workflow and outcomes.
+* Encourage Intuition Building: Provide workflows for participants to help gain deep insights and intuition about their data, transforming raw numbers into narratives threads that can be explored.
+* Practical Skillset: Move beyond theoretical knowledge so attendees can leave with practical approaches and strategies for data exploration.
+* Stoke Curiosity: Help participants see data exploration as a exciting steps and shift attitudes from accepting data at face value to actively questioning and probing data to uncover underlying issues, patterns, anomalies, and trends.
