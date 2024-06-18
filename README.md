@@ -1,3 +1,4 @@
+[UNDER DEVELOPMENT - CHECK BACK IN A FEW WEEKS]
 # Plotting Your Course with Effective Data Exploration
 
 ## Workshop Description
