@@ -12,7 +12,12 @@ By the end of this workshop, participants will be equipped with the knowledge an
 
 ## Setup Documentation
 1. Folder and Files
-INPUTS: Input data of watershed characteristics from Falcone et al. (2017). Predownloaded data is not included in this repository.
+INPUTS: Input data of watershed characteristics is not included in this repository.
+    - Water table depth (annual means) from [Fan, Y. et al. (2013)](doi.org/10.1126/science.1229881)
+    - Dataset1_BasinID, Dataset5_LandUse, Dataset6_N-P_Fertilizer-Manure, [Falcone, J. A. (2017a)](doi.org/10.5066/F7TX3CKP)
+    - Dataset19_PointSource, Dataset24_Static, [Falcone, J. A (2017b).](doi.org/10.5066/F7HQ3XS4)
+    - Dataset99_TileDrainage [Valayamkunnath, P. et a. (2020)](doi.org/10.1038/s41597-020-00596-x)
+    - Dataset99_AridityIndex [Zomer, R., & Trabucco, A. (2022)](doi.org/10.6084/M9.FIGSHARE.7504448.V6)
 CODE: Jupyter notebooks create for downloading data and processing data.
 - DATA_datasetCompilation.ipynb for downloading water flow and concentration data.
 OUTPUT: folders for generated files. 
