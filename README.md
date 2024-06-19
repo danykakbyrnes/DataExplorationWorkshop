@@ -29,4 +29,4 @@ OUTPUT: folders for generated files.
 To setup the environment, please install conda (Anaconda or miniconda) first, then create env via the config yaml.
 
 conda env create --file dataExploration.yaml --name dataExploration
-conda activate dataExplorationc
+conda activate dataExploration
