@@ -18,8 +18,10 @@ INPUTS: Input data of watershed characteristics is not included in this reposito
 - Dataset19_PointSource, Dataset24_Static [Falcone, J. A (2017b)](https://www.sciencebase.gov/catalog/item/59692a64e4b0d1f9f05fbd39)
 - Dataset99_TileDrainage [Valayamkunnath, P. et a. (2020)](https://www.nature.com/articles/s41597-020-00596-x)
 - Dataset99_AridityIndex [Zomer, R., & Trabucco, A. (2022)](https://figshare.com/articles/dataset/Global_Aridity_Index_and_Potential_Evapotranspiration_ET0_Climate_Database_v2/7504448/6)
+
 CODE: Jupyter notebooks create for downloading data and processing data.
 - DATA_datasetCompilation.ipynb for comiling watershed attributes and downloading water flow and concentration data.
+
 OUTPUT: folders for generated files. 
 - environment_*.yaml: conda environment config file.
 
