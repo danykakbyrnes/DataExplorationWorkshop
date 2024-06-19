@@ -12,14 +12,15 @@ By the end of this workshop, participants will be equipped with the knowledge an
 
 ## Setup Documentation
 1. Folder and Files
+
 INPUTS: Input data of watershed characteristics is not included in this repository.
-    - Water table depth (annual means) from [Fan, Y. et al. (2013)](www.doi.org/10.1126/science.1229881)
-    - Dataset1_BasinID, Dataset5_LandUse, Dataset6_N-P_Fertilizer-Manure, [Falcone, J. A. (2017a)](www.doi.org/10.5066/F7TX3CKP)
-    - Dataset19_PointSource, Dataset24_Static, [Falcone, J. A (2017b)](www.doi.org/10.5066/F7HQ3XS4)
-    - Dataset99_TileDrainage [Valayamkunnath, P. et a. (2020)](www.doi.org/10.1038/s41597-020-00596-x)
-    - Dataset99_AridityIndex [Zomer, R., & Trabucco, A. (2022)](www.doi.org/10.6084/M9.FIGSHARE.7504448.V6)
+    - Water table depth (annual means) from [Fan, Y. et al. (2013)](https://www.science.org/doi/10.1126/science.1229881)
+    - Dataset1_BasinID, Dataset5_LandUse, Dataset6_N-P_Fertilizer-Manure, [Falcone, J. A. (2017a)](https://www.sciencebase.gov/catalog/item/58a5b804e4b057081a24f20c)
+    - Dataset19_PointSource, Dataset24_Static, [Falcone, J. A (2017b)](https://www.sciencebase.gov/catalog/item/59692a64e4b0d1f9f05fbd39)
+    - Dataset99_TileDrainage [Valayamkunnath, P. et a. (2020)](https://www.nature.com/articles/s41597-020-00596-x)
+    - Dataset99_AridityIndex [Zomer, R., & Trabucco, A. (2022)](https://figshare.com/articles/dataset/Global_Aridity_Index_and_Potential_Evapotranspiration_ET0_Climate_Database_v2/7504448/6)
 CODE: Jupyter notebooks create for downloading data and processing data.
-- DATA_datasetCompilation.ipynb for downloading water flow and concentration data.
+    - DATA_datasetCompilation.ipynb for downloading water flow and concentration data.
 OUTPUT: folders for generated files. 
 environment_*.yaml: conda environment config file.
 
@@ -27,7 +28,4 @@ environment_*.yaml: conda environment config file.
 To setup the environment, please install conda (Anaconda or miniconda) first, then create env via the config yaml.
 
 conda env create --file dataExploration.yaml --name dataExploration
-conda activate dataExploration
-
-3. Extra dataset download
-I use two additional dataset, 'Falcone, J.A., 2017. USGS Data Release. https://doi.org/10.5066/F7HQ3XS4' and XXX. 
+conda activate dataExplorationc
