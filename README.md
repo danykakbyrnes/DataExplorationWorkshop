@@ -13,7 +13,7 @@ By the end of this workshop, participants will be equipped with the knowledge an
 ## Setup Documentation
 ### Folder and Files
 INPUTS: Input data of watershed characteristics is not included in this repository.
-- Dataset1_BasinID, Dataset5_LandUse, Dataset6_N-P_Fertilizer-Manure ([Falcone, J. A. (2017a)](https://www.sciencebase.gov/catalog/item/58a5b804e4b057081a24f20c))
+- Dataset1_BasinID, Dataset5_LandUse, Dataset6_N-P_Fertilizer-Manure ([Falcone, J. A. (2017a)](https://www.sciencebase.gov/catalog/item/631405bbd34e36012efa304a))
 - Dataset99_PointSource ([Ivahnenko, T.I. (2017)](https://www.sciencebase.gov/catalog/item/582f41a4e4b04d580bd51af5))
 - Dataset99_Slope ([USGS National Elevation Dataset, accesssed 2024](https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/1/TIFF/current/))
 - Dataset99_AridityIndex ([Zomer, R., & Trabucco, A. (2022)](https://figshare.com/articles/dataset/
