@@ -24,7 +24,7 @@ CODE: Jupyter notebooks created for downloading data and processing data.
 - **ANA_dataExploration.ipynb** performs the analysis and data exploration of the watershed's concentration-discharge and attribute analysis. 
 
 ### Software
-You are free to use any software you prefer for the workshop. If you are new to Python, I recommend starting with Anaconda, which simplifies package management and deployment.
+You are free to use any software/online platform you prefer for the workshop. If you are new to Python, I recommend starting with Anaconda, which simplifies package management and deployment.
 
 To setup the environment through conda, install conda (Anaconda or miniconda). 
 Once downloaded, you can create your environment by importing the config _YAML_ I have provided. This contains all the packages you will need to install for the workshop. 
@@ -43,4 +43,4 @@ conda activate workshop_DataExploration
 conda install jupyter
 jupyter notebook
 ```
-This workshop is accessible through [my Github](https://github.com/danykakbyrnes/DataExplorationWorkshop.git)
+This workshop is accessible through [my Github](https://github.com/danykakbyrnes/DataExplorationWorkshop.git).
