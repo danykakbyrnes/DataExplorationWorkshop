@@ -24,11 +24,23 @@ CODE: Jupyter notebooks created for downloading data and processing data.
 - **ANA_dataExploration.ipynb** performs the analysis and data exploration of the watershed's concentration-discharge and attribute analysis. 
 
 ### Software
-To setup the environment through conda, install conda (Anaconda or miniconda) first, then create your environment by importing the config yaml.
-1. Open Anaconda Prompt
-2. Navigate to the location of the .yml file (e.g., INPUTS/).
+You are free to use any software you prefer for the workshop. If you are new to Python, I recommend starting with Anaconda, which simplifies package management and deployment.
+
+To setup the environment through conda, install conda (Anaconda or miniconda). 
+Once downloaded, you can create your environment by importing the config _YAML_ I have provided. This contains all the packages you will need to install for the workshop. 
+1. Open the Anaconda Prompt (or your terminal if using Miniconda).
+2. Navigate to the directory containing the configuration _YAML_ file (e.g., INPUTS/). You can use the cd command to change directories. 
+`cd path/to/your/INPUTS/`
 3. Run the following commands:
 ```
 conda env create -f workshop_DataExploration.yml
 conda activate workshop_DataExploration
 ```
+- The first command creates a new environment based on the specifications in the workshop_DataExploration.yml file.
+- The second command activates the newly created environment.
+4. Next download Jupyter Notebook and run it
+```
+conda install jupyter
+jupyter notebook
+```
+This workshop is accessible through [my Github](https://github.com/danykakbyrnes/DataExplorationWorkshop.git)
