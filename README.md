@@ -11,7 +11,7 @@ By the end of this workshop, participants will be equipped with the knowledge an
 
 ## Setup Documentation
 ### Folder and Files
-INPUTS: Input data of watershed characteristics is not included in this repository. Contents of the INPUTS folder are:
+INPUTS: Input data of watershed characteristics is not included in this repository. Download the data from [FigShare repository]](https://figshare.com/s/da62fabe5e2ba6cdc6a0). Contents of the INPUTS folder are:
 - **workshop_DataExploration.yml**: virtual environment .yml file. See notes below for import. 
 - **WtshdAttributeTable_20240603.txt**: Watershed attribute data file.
 - **CQ_Data_20240604.txt**: Paired concentration and discharge recording for 2594 watersheds from 1980 to 2020.
