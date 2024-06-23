@@ -24,7 +24,7 @@ CODE: Jupyter notebooks created for downloading data and processing data.
 - **ANA_dataExploration.ipynb** performs the analysis and data exploration of the watershed's concentration-discharge and attribute analysis. 
 
 ### Software
-To setup the environment, please install conda (Anaconda or miniconda) first, then create your environment by importing the config yaml.
+To setup the environment through conda, install conda (Anaconda or miniconda) first, then create your environment by importing the config yaml.
 1. Open Anaconda Prompt
 2. Navigate to the location of the .yml file (e.g., INPUTS/).
 3. Run the following commands:
