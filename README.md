@@ -48,6 +48,6 @@ jupyter notebook
 conda activate workshop_DataExploration 
 conda install ipykernel python -m ipykernel install --user --name workshop_DataExploration
 python -m ipykernel install --user --name workshop_DataExploration
-``
+```
 
 This workshop is accessible through [my Github](https://github.com/danykakbyrnes/DataExplorationWorkshop.git).
